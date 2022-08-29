@@ -1,5 +1,5 @@
 # PancakeSwap Prediction bot VS ProximaBet Script
-#### The Last Markdown Editor, Ever
+#### The best prediction platform.
 
 [![N|Solid](https://i.imgur.com/o4TrOte.png)](https://proximabet.com)
 
@@ -15,6 +15,7 @@ What is ProximaBet?
 - Scripts are written in JavaScript.
 - Access to TradingView API.
 - Default Trading & Betting strategy Scripts.
+- SHARES as NFTs. (By holding these shares you'll be granted a weekly percentage of the website's profit)
 
 ## Where will the website be live?
 - Right now the website is in investment phase. [LinkTree](https://linktr.ee/proximabet)
